@@ -1,1 +1,1 @@
-# GradientDescent-ml
+## Used Gradient Descent algortihim to implement linear regression
